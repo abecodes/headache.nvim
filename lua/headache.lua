@@ -57,6 +57,7 @@ M.setup = function(opts)
 				end
 			})
 		end
+	end
 end
 
 return M
